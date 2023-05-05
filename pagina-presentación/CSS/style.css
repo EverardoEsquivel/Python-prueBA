@@ -1,0 +1,50 @@
+.arriba{background-color: black;}
+    #café{
+        width: 100px;
+        height: 100px;}
+    #sesion{
+        margin-left: 60%;}
+        h1{color: aliceblue;}
+        h2{font-size: 300%;color: aliceblue;}
+        h3{color: aliceblue;}
+.medio{
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200%;
+    
+}   
+    body{
+        margin: 0%;
+    }
+    
+    #cafesito{
+        width: 300px;
+        height: 300px;
+        
+    }
+.bajo{
+    background-color: black;
+    display: flex;justify-content: center;align-items: center;}
+#ca{
+    width: 250px;height: 250px;}
+#fe{
+    width: 250px;height: 250x;
+}    
+#si{
+    width: 250px;height: 250%;
+}
+.posterior{
+
+background-color: black;
+display: flex;justify-content: left;align-items: left;color: aliceblue;font-size: 220%;
+}
+#personas{
+    width: 350px;height: 250px;
+}
+.footer{
+    background-color: black;display: flex;justify-content: center;align-content: center;color: aliceblue;
+}
+
+    
